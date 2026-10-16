@@ -19,15 +19,16 @@
   <img src="./internet_geek.gif" width="45%" />
   <img src="./letsgo_swiming.gif" width="45%" />
 </p>
-<!-- outro pao de queijo-->
-<p align="center">
-  <img src="./ibis_paint.gif" width="45%" />
-  <img src="./popup.gif" width="45%" />
-</p>
+
 <!-- primeir -->
 <p align="center">
   <img src="./frutiger_fishy2.gif" width="30%" />
   <img src="./blonde_corasao.gif" width="30%" />
+</p>
+<!-- outro pao de queijo-->
+<p align="center">
+  <img src="./ibis_paint.gif" width="45%" />
+  <img src="./popup.gif" width="45%" />
 </p>
 
 <!-- segidna -->
