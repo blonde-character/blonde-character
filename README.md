@@ -24,6 +24,8 @@
 <p align="center">
   <img src="./frutiger_fishy2.gif" width="30%" />
   <img src="./blonde_corasao.gif" width="30%" />
+  <img src="./whatever.jpg" width="30%" />
+</p>
 </p>
 <!-- outro pao de queijo-->
 <p align="center">
@@ -33,12 +35,24 @@
 
 <!-- segidna -->
 <p align="center">
-    <img src="./blonde_pulapula.gif" width="30%" />
- <img src="./frutiger_fishy.gif" width="30%" />
+  <img src="./frutiger_fishy.gif" width="30%" />
+  <img src="./blonde_pulapula.gif" width="30%" />
+  <img src="./blonde_spageti.gif" width="30%" />
+</p>
 </p>
 <div align="center">
 
 <div align="center">
+<p align="center">
+  <img src="./computer.gif" width="30%" />
+  <img src="./blonde_dansarino.gif" width="30%" />
+  <img src="./blonde_shapeu.gif" width="30%" />
+</p>
+
+<p align="center">
+  <img src="./fishy.gif" width="49%" />
+  <img src="./aquarium.gif" width="49%" />
+</p>
 
 <details>
   <summary>YUMES</summary>
