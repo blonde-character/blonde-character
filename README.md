@@ -1,6 +1,6 @@
  <img src="./foguinhoasul.gif" width="100%" alt="Foguinho" />
  <p align="center">
-  <img src="./frutiger_SUPERCOOL.gif" width="400" alt="Aquário" />
+  <img src="./frutiger_SUPERCOOL.gif" width="100%" />
 </p>
 
 
@@ -12,7 +12,7 @@
 
 <!-- clap clap -->
 <p align="center">
-  <img src="./trio_baka.gif" width="40%" alt="Trio Baka" />
+  <img src="./trio_baka.gif" width="80%" />
 </p>
 <!-- dois paes de queijo-->
 <p align="center">
