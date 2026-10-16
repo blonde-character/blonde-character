@@ -41,6 +41,10 @@
 </p>
 </p>
 <div align="center">
+<p align="center">
+  <img src="./click.gif" width="49%" />
+  <img src="./iluvipod.gif" width="49%" />
+</p>
 
 <div align="center">
 <p align="center">
